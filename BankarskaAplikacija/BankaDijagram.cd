@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BankarskaAplikacija.Racun">
+    <Position X="4" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAgAAAAAAAAAAAAAAAAAAAAAAgIBAAAAAAAAAAAAA=</HashCode>
+      <FileName>Racun.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="klijent" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="BankarskaAplikacija.Klijent">
+    <Position X="7.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAABEAAAAAABAAAAAAgEAAAAABAAAAAAAAA=</HashCode>
+      <FileName>Klijent.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="Racuni" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
